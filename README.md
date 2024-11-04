@@ -6,3 +6,6 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 ## Rubric
 
 Each question is worth one point.
+
+## Carter Smith
+[GitHub](https://github.com/cartertrumansmith)
